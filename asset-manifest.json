@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/it-incubator-card/static/css/main.31d6cfe0.css",
+    "main.js": "/it-incubator-card/static/js/main.dd7eb04e.js",
+    "static/js/453.2c89c1e2.chunk.js": "/it-incubator-card/static/js/453.2c89c1e2.chunk.js",
+    "static/media/rectangle_1.png": "/it-incubator-card/static/media/rectangle_1.6ce1a1a5a2128ce739b1.png",
+    "index.html": "/it-incubator-card/index.html",
+    "main.dd7eb04e.js.map": "/it-incubator-card/static/js/main.dd7eb04e.js.map",
+    "453.2c89c1e2.chunk.js.map": "/it-incubator-card/static/js/453.2c89c1e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.dd7eb04e.js"
+  ]
+}
